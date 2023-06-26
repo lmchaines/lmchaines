@@ -1,4 +1,4 @@
-# Inventory Manager and Data Analytics Specialist
+# Inventory Manager and Data Analytics Enthusiast
 
 Welcome to my GitHub profile! I'm an enthusiastic and dedicated inventory manager and data analytics nerd with expertise in various tools and technologies. With a strong background in SQL, VBA, Excel, Microsoft BI, and Python, I bring a unique set of skills to effectively manage inventories and leverage data analytics for decision-making.
 
